@@ -1,0 +1,17 @@
+.top-contact ticket-scroll p {
+   display: -moz-inline-stack;
+   display: inline-block;
+   width: 172px;
+   height: 38px;
+   background: url("http://dabuttonfactory.com/b.png?t=Your%20text%20here&f=Calibri&ts=23&tc=ffffff00&it=png&c=1&bgt=unicolored&bgc=94cc5c&hp=20&vp=11") no-repeat;
+   line-height: 38px;
+   vertical-align: text-middle;
+   text-align: center;
+   color: #ffffff;
+   font-family: Calibri;
+   font-size: 23px;
+   font-weight: normal;
+   font-style: normal;
+   text-shadow: none;
+   float: right;
+}
